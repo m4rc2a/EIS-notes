@@ -1,1 +1,2 @@
 # Begriffserklärung
+Ein **Störmeldekontakt** ist ein spezieller elektrischer Kontakt, der in Anlagen, Steuerungen oder Geräten eingesetzt wird, um **Störungen zu melden**. Das Prinzip ist simpel, aber enorm wichtig für die Überwachung und Sicherheit technischer Systeme.

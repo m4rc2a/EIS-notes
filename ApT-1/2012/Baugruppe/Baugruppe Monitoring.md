@@ -6,7 +6,7 @@ Universell zur Überwachung von
 - [[Aufschaltung]] von Störmeldungen
 [[Operationsverstärker|OPV]] hat ein dings
 # Voraussetzungen
-- Überwachte Geräte/Baugruppen brauchen ein [[Potentialfreie Kontakte|potenzialfreien]] Störmeldekontakt
+- Überwachte Geräte/Baugruppen brauchen ein [[Potentialfreie Kontakte|potenzialfreien]] [[Störmeldekontakt]]
 
 
-# Störmeldekontakt
+# [[Störmeldekontakt]]
