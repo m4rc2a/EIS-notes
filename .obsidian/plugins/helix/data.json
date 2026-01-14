@@ -1,4 +1,4 @@
 {
-  "enableHelixKeybindings": true,
+  "enableHelixKeybindings": false,
   "cursorInInsertMode": "bar"
 }

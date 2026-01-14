@@ -7,6 +7,8 @@ Universell zur Überwachung von
 [[Operationsverstärker|OPV]] hat ein dings
 # Voraussetzungen
 - Überwachte Geräte/Baugruppen brauchen ein [[Potentialfreie Kontakte|potenzialfreien]] [[Störmeldekontakt]]
+# Überwachung der Störmeldegruppen
+
 
 
 # [[Störmeldekontakt]]
