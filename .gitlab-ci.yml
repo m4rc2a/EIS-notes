@@ -1,11 +1,9 @@
-stages:
-  - render
-
 render:
   image: python:3.12
   stage: render
-  only:
-    - main
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+      when: always
   script:
     - git config --global user.email "ci@codeberg.org"
     - git config --global user.name "Codeberg CI"
