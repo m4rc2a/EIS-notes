@@ -4,8 +4,9 @@ aliases:
   - das Erfassungsmodul
   - das Modul
   - der Umformer
+  - Messumformmodul
+  - Messumformungsmodul
 ---
-
 # Begriffserklärung
 Der [[Messumformer]] ist ein Temperaturerfassungsmodul aus der [[Abschlussprüfung Teil 1|ApT-1]] 
 [[Messumformer|Das Modul]] verwendet nach beliebigen einen [[PT100|PT100]] bzw. einen [[PT1000|PT100]] Temperatur [[PT1000|Sensor]].
