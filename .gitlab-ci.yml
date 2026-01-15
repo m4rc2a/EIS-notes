@@ -5,7 +5,7 @@ render:
   image: python:3.12
   stage: render
   only:
-    - main
+    - master
   script:
     - git config --global user.email "ci@codeberg.org"
     - git config --global user.name "Codeberg CI"
