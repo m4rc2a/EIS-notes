@@ -7,8 +7,8 @@ render:
   only:
     - master
   script:
-    - git config --global user.email "ci@codeberg.org"
-    - git config --global user.name "Codeberg CI"
+    - git config --global user.email "ci@code.siemens.com"
+    - git config --global user.name "GitLab CI"
     - git fetch origin
     - git checkout -B rendered origin/master
     - python circuitjs2url.py .
