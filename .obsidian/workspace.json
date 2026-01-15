@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApT-1/2014/Baugruppe/Einschub/Referenzspannung -R2.md",
-                "mode": "source",
+                "file": "ApT-1/2014/Baugruppe/Messumformer.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referenzspannung -R2"
+              "title": "Messumformer"
             }
           }
         ]
@@ -197,10 +197,14 @@
   },
   "active": "378b81ff2f22714c",
   "lastOpenFiles": [
+    "ApT-1/2012/Baugruppe/Störmeldekontakt.md",
+    "ApT-1/2012/Baugruppe/Störmeldegruppe.md",
+    "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
+    "ApT-1/2014/Baugruppe/Messumformer.md",
+    "ApT-1/2014/Baugruppe/Einschub/Brückenschaltung Temperatursensor.md",
+    "ApT-1/2014/Baugruppe/Einschub/Referenzspannung -R2.md",
     "ApT-1/Fragen/Was ist eine Elektrfachkraft.md",
     "ApT-1/PT1000.md",
-    "ApT-1/2014/Baugruppe/Messumformer.md",
-    "ApT-1/2014/Baugruppe/Einschub/Referenzspannung -R2.md",
     "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
     "ApT-1/2011/Baugruppe/RTD Interface.md",
     "Ausbildung-EIS/ApT-1/2011/Baugruppen-Analyse.md",
@@ -209,11 +213,8 @@
     "Ausbildung-EIS",
     "ApT-1/Fragen",
     "ApT-1/2014/Baugruppe/Einschub",
-    "ApT-1/2012/Baugruppe/Störmeldegruppe.md",
     "Lerninhalte/Begriffe/BCD.md",
-    "ApT-1/2012/Baugruppe/Störmeldekontakt.md",
     "ApT-1/PT100.md",
-    "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
     "Lerninhalte/Begriffe/Potentialfreie Kontakte.md",
     "circuitjs2link.py",
     "Abschlussprüfung Teil 1.md",
