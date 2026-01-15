@@ -189,7 +189,6 @@
       "markdown-importer:Markdown Importprogramm öffnen": false,
       "random-note:Zufällige Notiz öffnen": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
       "phrasesync:Reload PhraseSync": false
     }
   },

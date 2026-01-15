@@ -1,11 +1,8 @@
 [
-  "obsidian42-brat",
-  "helix",
   "automatic-linker",
   "obsidian-git",
   "obsidian-circuitjs",
   "obsidian-plugin-prettier",
   "symbols-prettifier",
-  "obsidian-wikipedia",
   "phrasesync"
 ]
