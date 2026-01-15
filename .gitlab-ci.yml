@@ -11,9 +11,7 @@ render:
     - git config --global user.name "Codeberg CI"
     - git fetch origin
     - git checkout -B rendered origin/main
-
     - python circuitjs2url.py .
-
     - git add .
     - git commit -m "Auto-rewrite circuitjs blocks $CI_COMMIT_SHA" || echo "No changes"
     - git push origin rendered --force
