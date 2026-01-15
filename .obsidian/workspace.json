@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApT-1/2014/Baugruppe/Einschub/Referenzspannung.md",
+                "file": "ApT-1/2014/Baugruppe/Messumformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referenzspannung"
+              "title": "Messumformer"
             }
           }
         ]
@@ -195,14 +195,14 @@
       "phrasesync:Reload PhraseSync": false
     }
   },
-  "active": "378b81ff2f22714c",
+  "active": "4e349429e2edd384",
   "lastOpenFiles": [
-    "ApT-1/2014/Baugruppe/Messumformer.md",
+    "ApT-1/Fragen/Was ist eine Elektrfachkraft.md",
+    "ApT-1/Fragen",
     "ApT-1/2014/Baugruppe/Einschub/Referenzspannung.md",
     "ApT-1/2014/Baugruppe/Einschub",
-    "ApT-1/Fragen/Was ist eine Elektrfachkraft.md",
+    "ApT-1/2014/Baugruppe/Messumformer.md",
     "ApT-1/2012/Baugruppe/Störmeldegruppe.md",
-    "ApT-1/Fragen",
     "ApT-1/2011/Baugruppe/RTD Interface.md",
     "Lerninhalte/Begriffe/BCD.md",
     "ApT-1/2012/Baugruppe/Störmeldekontakt.md",
