@@ -5,5 +5,7 @@
   "obsidian-git",
   "obsidian-circuitjs",
   "obsidian-plugin-prettier",
-  "symbols-prettifier"
+  "symbols-prettifier",
+  "obsidian-wikipedia",
+  "phrasesync"
 ]
