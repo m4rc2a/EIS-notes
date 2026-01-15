@@ -12,7 +12,7 @@ def replace_circuitjs_block_with_link(markdown_text):
     circuitjs_data = markdown_text[code_start:code_end].strip()
     encoded = urllib.parse.quote(circuitjs_data)
     url = f"https://falstad.com/circuit/circuitjs.html?cct={encoded}"
-    markdown_link = f"[drück mich]({url})"
+    markdown_link = f"[Klick Hier für CicuitJS]({url})"
     before = markdown_text[:start]
     after = markdown_text[code_end + 3:]
     # Wiederholung für mehrere circuitjs-Blöcke (optional: solange ersetzt werden kann)
