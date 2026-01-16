@@ -13,10 +13,11 @@ Der [[Messumformer]] ist ein Temperaturerfassungsmodul aus der [[Abschlussprüfu
 
 # Konstanten
 
-| Eigenschaft                                                                                         | Wert               |
-| --------------------------------------------------------------------------------------------------- | ------------------ |
-| konstanter [[PT100#Parameter\|Messstrom des PT100]] ($I_\text{Messung PT100}$) ^Messstrom100        | $1\,\mathrm{mA}$   |
-| <br>konstanter [[PT1000#Parameter\|Messstrom des PT1000]] ($I_\text{Messung PT100}$) ^Messstrom1000 | $100\,\mathrm{µA}$ |
+| Eigenschaft                                                                                             | Wert               |
+| ------------------------------------------------------------------------------------------------------- | ------------------ |
+| konstanter [[PT100#Parameter\|Messstrom des PT100]] ($I_\text{Messung [[PT100]]}$) ^Messstrom100        | $1\,\mathrm{mA}$   |
+| <br>konstanter [[PT1000#Parameter\|Messstrom des PT1000]] ($I_\text{Messung [[PT100]]}$) ^Messstrom1000 | $100\,\mathrm{µA}$ |
+| [[Temperaturkoeffizient]] ($K_\text{U/T}$)                                                              | $10mV/K$           |
 # Messprinzip
 ## Features
 - [[Messumformer|Das Modul]] unterstützt nur [[PT100]]/[[PT1000]] [[PT100#^2draht|2-Drahtanschlüsse]] 
@@ -27,7 +28,7 @@ Der [[Messumformer]] ist ein Temperaturerfassungsmodul aus der [[Abschlussprüfu
 	-> Spannung ist zwischen `-X2` und `-X3` abgreifbar
 > **Hinweis:**
 > Der richtige Temperatur [[PT1000|Sensor]] muss ausgewählt sein.
-# Sensor Auswahl
-Der Sensor lässt sich mit dem Stecker `-X7` auswählen
+# [[PT1000|Sensor]] Auswahl
+Der [[PT1000|Sensor]] lässt sich mit dem Stecker `-X7` auswählen
 - `-X7-1` mit `-X7-2` für [[PT100|PT100]]
 - `-X7-3` mit `-X7-2` für [[PT1000]]

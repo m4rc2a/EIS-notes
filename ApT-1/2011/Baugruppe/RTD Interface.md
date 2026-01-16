@@ -3,7 +3,7 @@ aliases:
   - Das Interface
 ---
 # Begriffserklärung
-Das RTD (Resistance Temperature Device) Interface ist ein Temperaturerfassungsmodul für ein [[Ausbildung-EIS/ApT-1/2011/Baugruppen-Analyse#PT100|PT100 Temperatur Sensor]].
+Das RTD (Resistance Temperature Device) Interface ist ein Temperaturerfassungsmodul für ein [[Baugruppen-Analyse#PT100|PT100 Temperatur Sensor]].
 # Konstanten
 
 | Eigenschaft                                                                         | Wert             |
@@ -23,7 +23,7 @@ Wenn das [[#RTD Interface|Interface]] einen kleinen Temperaturunterschied misst,
 
 Der [[Koeffizient]] beträgt $10\,\mathrm{mV/K}$, das heißt jede Temperaturänderung um 1 Kelvin verursacht eine Ausgangsspannungsänderung von $10\,\mathrm{mV}$.
 # Messverfahren
-Für die Messung wird ein [[Ausbildung-EIS/ApT-1/2011/Baugruppen-Analyse#PT100|PT100]] verwendet.
+Für die Messung wird ein [[Baugruppen-Analyse#PT100|PT100]] verwendet.
 
 - Das Messverfahren basiert auf dem Prinzip des Spannungsfalls an einem Widerstand
 - Widerstandsänderung $\Delta R$ ist proportional zu Spannungsänderung $\Delta U$ 
