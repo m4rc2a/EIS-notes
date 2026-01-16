@@ -199,6 +199,11 @@
   },
   "active": "378b81ff2f22714c",
   "lastOpenFiles": [
+    "Lerninhalte/Sensoren/PT1000.md",
+    "Lerninhalte/Zahlenformate/BCD.md",
+    "Lerninhalte/Zahlenformate/BCD.mdOkNEbD.bck",
+    "Lerninhalte/Zahlenformate/BCD.mdmDSCWh.bck",
+    "Lerninhalte/Zahlenformate/BCD.mdnGAkzj.bck",
     "ApT-1/2014/Baugruppe/Messumformer.md",
     "Lerninhalte/Begriffe/Temperaturkoeffizient.md",
     "ApT-1/2014/Baugruppe/Einschub/Referenzspannung -R2.md",
@@ -210,11 +215,9 @@
     "ApT-1/2012/Baugruppe/Baugruppen-Analyse.md",
     "Lerninhalte/Zahlenformat.md",
     "Lerninhalte/Zahlenformate",
-    "Lerninhalte/Zahlenformate/BCD.md",
     "Lerninhalte/Begriffe/Potentialfreie Kontakte.md",
     "Lerninhalte/Begriffe/Aufschaltung.md",
     "Lerninhalte/Sensoren/Temperatursensor.md",
-    "Lerninhalte/Sensoren/PT1000.md",
     "Lerninhalte/Sensoren/PT100.md",
     "Lerninhalte/Sensoren",
     "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
@@ -227,16 +230,12 @@
     "Ausbildung-EIS",
     "ApT-1/Fragen",
     "ApT-1/2014/Baugruppe/Einschub",
-    "circuitjs2link.py",
     "[Elektronikerin.md",
     "Media DB/wiki/Association of German Chambers of Industry and Commerce.md",
-    "Media DB/wiki",
-    "Media DB",
     "Lerninhalte/Normen/VDE 0701-0702.md",
     "Lerninhalte/Schaltnetzteile.md",
     "Lerninhalte/Bilder/Integrierer-Diagramm.png",
     "Lerninhalte/Bilder/Integrierer-DIN.png",
-    "Ausbildung-EIS/Unbenannt.canvas",
-    "Willkommen.md"
+    "Ausbildung-EIS/Unbenannt.canvas"
   ]
 }
