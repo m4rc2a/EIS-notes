@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApT-1/2014/Baugruppe/Messumformer.md",
-                "mode": "preview",
+                "file": "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Messumformer"
+              "title": "Baugruppe Monitoring"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Baugruppe Monitoring"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von Baugruppe Monitoring öffnen"
             }
           },
           {
@@ -197,15 +199,23 @@
   },
   "active": "378b81ff2f22714c",
   "lastOpenFiles": [
+    "Lerninhalte/Zahlenformat.md",
+    "Lerninhalte/Zahlenformate",
+    "Lerninhalte/Zahlenformate/BCD.md",
+    "Lerninhalte/Begriffe/Potentialfreie Kontakte.md",
+    "Lerninhalte/Begriffe/Aufschaltung.md",
+    "ApT-1/2014/Baugruppe/Messumformer.md",
+    "Lerninhalte/Sensoren/Temperatursensor.md",
+    "Lerninhalte/Sensoren/PT1000.md",
+    "Lerninhalte/Sensoren/PT100.md",
+    "Lerninhalte/Sensoren",
+    "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
     "ApT-1/2012/Baugruppe/Störmeldekontakt.md",
     "ApT-1/2012/Baugruppe/Störmeldegruppe.md",
     "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
-    "ApT-1/2014/Baugruppe/Messumformer.md",
     "ApT-1/2014/Baugruppe/Einschub/Brückenschaltung Temperatursensor.md",
     "ApT-1/2014/Baugruppe/Einschub/Referenzspannung -R2.md",
     "ApT-1/Fragen/Was ist eine Elektrfachkraft.md",
-    "ApT-1/PT1000.md",
-    "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
     "ApT-1/2011/Baugruppe/RTD Interface.md",
     "Ausbildung-EIS/ApT-1/2011/Baugruppen-Analyse.md",
     "Ausbildung-EIS/ApT-1/2011",
@@ -213,19 +223,13 @@
     "Ausbildung-EIS",
     "ApT-1/Fragen",
     "ApT-1/2014/Baugruppe/Einschub",
-    "Lerninhalte/Begriffe/BCD.md",
-    "ApT-1/PT100.md",
-    "Lerninhalte/Begriffe/Potentialfreie Kontakte.md",
     "circuitjs2link.py",
     "Abschlussprüfung Teil 1.md",
     "[Elektronikerin.md",
     "Media DB/wiki/Association of German Chambers of Industry and Commerce.md",
     "Media DB/wiki",
     "Media DB",
-    "ApT-1/2014/Baugruppe",
-    "ApT-1/2014",
     "Lerninhalte/Normen/VDE 0701-0702.md",
-    "Lerninhalte/Begriffe/Aufschaltung.md",
     "Lerninhalte/Koeffizient.md",
     "Lerninhalte/Operationsverstärker.md",
     "Lerninhalte/Schaltnetzteile.md",
