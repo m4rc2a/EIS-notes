@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lerninhalte/Zahlenformate/BCD.md",
+                "file": "Abschlussprüfung Teil 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BCD"
+              "title": "Abschlussprüfung Teil 1"
+            }
+          },
+          {
+            "id": "4b89222f2154f931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/INEAC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INEAC"
+            }
+          },
+          {
+            "id": "f291e60c171a0207",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5087547302246
   },
   "right": {
     "id": "4ad673a4b869ef06",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lerninhalte/Zahlenformate/BCD.md",
+                "file": "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf BCD"
+              "title": "Rückverweise auf Abgleich der Baugruppe"
             }
           },
           {
@@ -113,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lerninhalte/Zahlenformate/BCD.md",
+                "file": "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von BCD öffnen"
+              "title": "Ausgehende Links von Abgleich der Baugruppe öffnen"
             }
           },
           {
@@ -197,10 +222,18 @@
       "phrasesync:Reload PhraseSync": false
     }
   },
-  "active": "378b81ff2f22714c",
+  "active": "f291e60c171a0207",
   "lastOpenFiles": [
-    "Lerninhalte/Sensoren/PT1000.md",
+    "Geschichte/INEAC.md",
+    "Lerninhalte/PC-Technik/PCs.md",
+    "Lerninhalte/PC-Technik",
+    "Geschichte",
+    "Abschlussprüfung Teil 1.md",
+    "Englisch",
+    "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
+    "ApT-1/2011/Baugruppe/RTD Interface.md",
     "Lerninhalte/Zahlenformate/BCD.md",
+    "Lerninhalte/Sensoren/PT1000.md",
     "Lerninhalte/Zahlenformate/BCD.mdOkNEbD.bck",
     "Lerninhalte/Zahlenformate/BCD.mdmDSCWh.bck",
     "Lerninhalte/Zahlenformate/BCD.mdnGAkzj.bck",
@@ -209,7 +242,6 @@
     "ApT-1/2014/Baugruppe/Einschub/Referenzspannung -R2.md",
     "ApT-1/2014/Baugruppe/Einschub/Brückenschaltung Temperatursensor.md",
     "Lerninhalte/Begriffe/Koeffizient.md",
-    "Abschlussprüfung Teil 1.md",
     "Lerninhalte/Operationsverstärker.md",
     "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
     "ApT-1/2012/Baugruppe/Baugruppen-Analyse.md",
@@ -220,20 +252,13 @@
     "Lerninhalte/Sensoren/Temperatursensor.md",
     "Lerninhalte/Sensoren/PT100.md",
     "Lerninhalte/Sensoren",
-    "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
     "ApT-1/2012/Baugruppe/Störmeldekontakt.md",
     "ApT-1/2012/Baugruppe/Störmeldegruppe.md",
     "ApT-1/Fragen/Was ist eine Elektrfachkraft.md",
-    "ApT-1/2011/Baugruppe/RTD Interface.md",
     "Ausbildung-EIS/ApT-1/2011",
     "Ausbildung-EIS/ApT-1",
-    "Ausbildung-EIS",
-    "ApT-1/Fragen",
-    "ApT-1/2014/Baugruppe/Einschub",
     "[Elektronikerin.md",
     "Media DB/wiki/Association of German Chambers of Industry and Commerce.md",
-    "Lerninhalte/Normen/VDE 0701-0702.md",
-    "Lerninhalte/Schaltnetzteile.md",
     "Lerninhalte/Bilder/Integrierer-Diagramm.png",
     "Lerninhalte/Bilder/Integrierer-DIN.png",
     "Ausbildung-EIS/Unbenannt.canvas"
