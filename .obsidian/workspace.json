@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lerninhalte/Sensoren/Temperatursensor.md",
+                "file": "Lerninhalte/Bauteile/Sensoren/Temperatursensor.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lerninhalte/Begriffe/Strom.md",
+                "file": "Lerninhalte/Basisgrößen/Strom.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,14 +39,10 @@
             "id": "5cd8d35e225068af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lerninhalte/Begriffe/Sensor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sensor"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
             }
           }
         ],
@@ -228,13 +224,25 @@
   },
   "active": "5cd8d35e225068af",
   "lastOpenFiles": [
-    "Lerninhalte/Begriffe/Sensor.md",
-    "Lerninhalte/Begriffe/Strom.md",
+    "Lerninhalte/Bauteile/Sensoren/PT100.md",
+    "Lerninhalte/Bauteile/Sensoren/Platin-Messwiderstand.md",
+    "Lerninhalte/Bauteile/Sensoren/Widerstandstemperatursensor.md",
+    "Lerninhalte/Basisgrößen/Widerstand.md",
+    "Lerninhalte/Bauteile/Operationsverstärker.md",
+    "Lerninhalte/Basisgrößen/Strom.md",
+    "Lerninhalte/Basisgrößen",
     "Lerninhalte/Begriffe/Temperaturkoeffizient.md",
-    "Lerninhalte/Halbleiter/Thermistor.md",
-    "Lerninhalte/Begriffe/Potentialfreie Kontakte.md",
-    "Lerninhalte/Begriffe/Koeffizient.md",
+    "Lerninhalte/Bauteile/Sensoren/Temperatursensor.md",
+    "Lerninhalte/Bauteile/Potentialfreie Kontakte.md",
+    "Abschlussprüfung Teil 1.md",
+    "Lerninhalte/Bauteile/Schaltnetzteile.md",
     "Lerninhalte/Begriffe/Aufschaltung.md",
+    "Lerninhalte/Bauteile/Halbleiter/Heißleiter.md",
+    "Lerninhalte/Bauteile/Halbleiter/Kaltleiter.md",
+    "Lerninhalte/Bauteile/Halbleiter/Thermistor.md",
+    "Lerninhalte/Bauteile/Sensor.md",
+    "Lerninhalte/Bauteile",
+    "Lerninhalte/Begriffe/Koeffizient.md",
     "ApT-1/2011/Baugruppe/RTD Interface.md",
     "ApT-1/2011/Baugruppe/Abgleich der Baugruppe.md",
     "ApT-1/2012/Baugruppe/Baugruppe Monitoring.md",
@@ -243,18 +251,7 @@
     "ApT-1/2014/Baugruppe/Einschub/Auswahl des Sensors.md",
     "ApT-1/2014/Baugruppe/Einschub/Brückenschaltung Temperatursensor.md",
     "ApT-1/2014/Baugruppe/Einschub/Referenzspannung -R2.md",
-    "ApT-1/2014/Baugruppe/Messumformer.md",
-    "ApT-1/Fragen/Was ist eine Elektrfachkraft.md",
-    "Lerninhalte/Sensoren/Platin-Messwiderstand.md",
-    "Lerninhalte/Sensoren/Temperatursensor.md",
-    "Lerninhalte/Sensoren/Widerstandstemperatursensor.md",
-    "Lerninhalte/Halbleiter/Heißleiter.md",
-    "Kaltleiter.md",
-    "Lerninhalte/Halbleiter",
-    "Lerninhalte/Sensoren/PT1000.md",
-    "Lerninhalte/Sensoren/PT100.md",
-    "Lerninhalte/elektrische Signale.md",
-    "Lerninhalte/Einheiten/Coulomb.md",
+    "Lerninhalte/Bauteile/Halbleiter",
     "Lerninhalte/Einheiten",
     "Lerninhalte/PC-Technik",
     "Geschichte",
@@ -262,8 +259,6 @@
     "Lerninhalte/Zahlenformate/BCD.mdOkNEbD.bck",
     "Lerninhalte/Zahlenformate/BCD.mdmDSCWh.bck",
     "Lerninhalte/Zahlenformate/BCD.mdnGAkzj.bck",
-    "Lerninhalte/Zahlenformate",
-    "Lerninhalte/Sensoren",
     "Lerninhalte/Bilder/Integrierer-Diagramm.png",
     "Lerninhalte/Bilder/Integrierer-DIN.png",
     "Ausbildung-EIS/Unbenannt.canvas"

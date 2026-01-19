@@ -2,6 +2,7 @@
 aliases:
   - Temperatur-Umwandlungsfaktor
   - Temperaturbeiwert
+  - Temperaturkoeffizienten
 ---
 # Begriffserklärung
 Ein [[Temperaturkoeffizient]] ist ein [[Koeffizient]], der angibt, wie stark ein physikalischer Messwert (zum Beispiel elektrischer Widerstand oder Spannung) sich ändert, wenn die Temperatur um $1 °C$ (oder manchmal auch auch in Kelvin $1°K$) steigt oder fällt.

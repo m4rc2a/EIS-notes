@@ -1,7 +1,6 @@
 ---
 aliases:
 ---
-
 # Begriffserklärung
 Ein **[[Thermistor]]** ist ein [[Widerstandstemperatursensor]], der aus einem **Halbleitermaterial** besteht.
 # Funktionsweise
