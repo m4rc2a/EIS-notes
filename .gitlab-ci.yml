@@ -89,7 +89,7 @@ classification_policy:
 sync_public_only:
   stage: sync
   image:
-    name: alpine/git:2.45.2
+    name: alpine/git
     entrypoint: [""]
   needs: ["classification_policy"]
   rules:
