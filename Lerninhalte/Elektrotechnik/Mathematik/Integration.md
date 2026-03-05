@@ -1,0 +1,5 @@
+---
+classification: public
+---
+
+**[[Integration]]** ist eine mathematische Funktion, die die Fläche unter einer Kurve berechnet.

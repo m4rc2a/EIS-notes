@@ -1,0 +1,5 @@
+---
+classification: public
+---
+
+Ein **[[Metallfilm]]** ist eine extrem dünne Metallschicht, die mit Hilfe der [Dünnschichttechnik](https://de.wikipedia.org/wiki/D%C3%BCnnschichttechnik) auf ein Trägermaterial (zum Beispiel Keramik, Glas oder Kunststoff) aufgebracht wird. Dieses Verfahren wird häufig eingesetzt, um Oberflächen gezielt mit Metalleigenschaften auszustatten.

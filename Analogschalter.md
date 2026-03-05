@@ -1,0 +1,5 @@
+---
+classification: public
+---
+
+Ein **[[Analogschalter]]** ist ein [[Bauteile|elektronisches Bauteil]] (oft ein [[Integrierter Schaltkreis|IC]]), das Eingangssignale (meist [[Spannung|Spannungen]]) von einer oder mehreren Quellen gezielt an einen Ausgang weiterleitet. Die Schaltung funktioniert tatsächlich wie ein „Umschalter“ – jedoch nicht für digitale [[elektrische Signale|Signale]] (Ein/Aus), sondern für analoge Werte wie [[Spannung|Spannungen]] oder [[Stromstärke|Ströme]].

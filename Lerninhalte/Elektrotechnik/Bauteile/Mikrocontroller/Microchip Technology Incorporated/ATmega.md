@@ -1,0 +1,5 @@
+---
+classification: public
+---
+
+DIe **[[ATmega]]** Serie ist eine Produktfamilie von dem Hersteller [[Microchip Technology Incorporated|Microchip Technology Inc.]] (früher Atmel)

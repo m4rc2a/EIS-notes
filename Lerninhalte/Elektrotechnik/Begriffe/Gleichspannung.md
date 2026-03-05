@@ -1,0 +1,5 @@
+---
+classification: public
+---
+
+[[Gleichspannung]] ist eine elektrische [[Spannung]], die **immer denselben Wert und dieselbe Richtung** hat. Im Gegensatz zur [[Wechselspannung]] ändert sie sich also nicht mit der Zeit.

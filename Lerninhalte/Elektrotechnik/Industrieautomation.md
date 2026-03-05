@@ -1,0 +1,5 @@
+---
+classification: public
+---
+
+**[[Industrieautomation]]** bezeichnet den Einsatz von Steuerungssystemen, wie [[PCs|Computer]], programmierbare Steuerungen (SPS), [[Sensoren]] und Aktoren, um industrielle Prozesse automatisch und ohne menschliches Eingreifen zu überwachen, zu [[Steuern]] und zu regeln.

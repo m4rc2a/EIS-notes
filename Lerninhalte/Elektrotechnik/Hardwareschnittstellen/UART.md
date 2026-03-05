@@ -1,0 +1,5 @@
+---
+classification: public
+---
+
+**[[UART]]** (kurz für: **U**niversal **A**synchronous **R**eceiver and **T**ransmitter) ist ein "Hardwareprotokoll"
