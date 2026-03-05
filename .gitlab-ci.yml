@@ -89,7 +89,7 @@ classification_policy:
 sync_public_only:
   stage: sync
   image:
-    name: alpine/git
+    name: bitnami/git
     entrypoint: [""]
   needs: ["classification_policy"]
   rules:
