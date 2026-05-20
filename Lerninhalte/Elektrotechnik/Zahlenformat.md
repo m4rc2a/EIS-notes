@@ -9,4 +9,4 @@ aliases:
 classification: public
 ---
 
-Ein **[[Zahlenformat]]** ist eine Art, die beschreibt, wie [Zahlen](https://de.wikipedia.org/wiki/Zahl "Zahl") im [Dezimalsystem](https://de.wikipedia.org/wiki/Dezimalsystem "Dezimalsystem") notiert werden.
+Ein **[[Zahlenformat]]** (auch Zahlendarstellung) beschreibt, wie Zahlen schriftlich notiert werden – z. B. im [[BCD|BCD-Code]], als Festkomma- oder Gleitkommazahl. Siehe auch: [[Zahlenformate]]

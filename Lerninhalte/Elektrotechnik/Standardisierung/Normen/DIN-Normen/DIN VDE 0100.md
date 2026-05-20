@@ -19,4 +19,10 @@ Die [[DIN VDE 0100]] besteht aus unterschiedlichen Teilen, die jeweils um unters
 - **[[VDE]] 0100 Teil 540**: Erdungsanlagen und [[Schutzleiter]]
 - **[[VDE]] 0100 Teil 701**: Badezimmer-Installation
 
-#TODO: Umrechnung Spannungsverhältnis in Dezibel
+# Umrechnung Spannungsverhältnis in Dezibel
+$$
+L_U = 20 \cdot \log_{10}\left(\frac{U_2}{U_1}\right) \,\mathrm{dB}
+$$
+- Verdopplung der Spannung → $+6\,\mathrm{dB}$
+- Verzehnfachung → $+20\,\mathrm{dB}$
+- $U_2 < U_1$ → negativer dB-Wert (Dämpfung)

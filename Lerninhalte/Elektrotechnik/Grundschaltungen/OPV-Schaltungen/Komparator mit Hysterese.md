@@ -19,7 +19,11 @@ graph LR
     LED1 --> GND
 ```
 
-Es gibt eine Hysterese [[Spannung]] #TODO
+Die Hysteresespannung $U_H$ ist der Unterschied zwischen der oberen und unteren Schaltschwelle:
+$$
+U_H = U_{\text{oben}} - U_{\text{unten}} = \frac{R_2}{R_1 + R_2} \cdot (U_{\text{OH}} - U_{\text{OL}})
+$$
+Wobei $U_{\text{OH}}$ und $U_{\text{OL}}$ die Ausgangsspannungen im High- bzw. Low-Zustand sind.
 
 # Beschaltung
 ![[KomparatorHyst.svg]]

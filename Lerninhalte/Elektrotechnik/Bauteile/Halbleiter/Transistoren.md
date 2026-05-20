@@ -12,10 +12,11 @@ Ein [[Transistoren|Transistor]] ist ein [[Halbleiter]] zum [[Steuern]] aber auch
 
 Es gibt zwei Typen von **[[Transistoren]]**:
 
-> [!note] #TODO Hier irgendwas hinschreiben **Notizen:**
-> pibolar/ unipolar
-> 
-> JFET/MOSFET
-> P/N Kannal
-> 
-> Verarmung und anreicherungstüb
+> [!note] **Übersicht Transistortypen:**
+> **Bipolartransistoren** (stromgesteuert):
+> - [[NPN-Transistoren]] / [[PNP-Transistoren]]
+>
+> **Feldeffekttransistoren (FET)** (spannungsgesteuert = unipolar):
+> - [[J-FET]] (Verarmungstyp)
+> - [[MOSFET]] → Verarmungstyp oder Anreicherungstyp
+>   - N-Kanal / P-Kanal

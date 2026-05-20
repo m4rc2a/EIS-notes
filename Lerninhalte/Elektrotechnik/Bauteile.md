@@ -9,4 +9,4 @@ aliases:
   - elektronische Bauteile
 classification: public
 ---
-Ein **[[Bauteile|elektronisches Bauteil]]** ist ein teil, dass physikalische gesetzte dazu nützt um einen in einer elektrischen Schaltung befindlichen zweck gerecht zu werden.
+Ein **[[Bauteile|elektronisches Bauteil]]** ist ein Bestandteil, das physikalische Gesetze nutzt, um in einer elektrischen Schaltung einen bestimmten Zweck zu erfüllen.

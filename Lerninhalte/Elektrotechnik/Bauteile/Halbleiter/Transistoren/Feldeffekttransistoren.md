@@ -24,10 +24,10 @@ Es gibt verschiedene FET-Typen, am wichtigsten sind:
 - **[[MOSFET]]** (Metall-Oxid-Halbleiter-Feldeffekttransistor)
 - **[[J-FET]]** (Junction-Feldeffekttransistor)
 
-> [!note] #TODO Hier irgendwas hinschreiben Notizen:
->CMOS Technik -> Bulk anschluss?
-> IG Feld $I_G$ ([[#^Gate|Gate]])
-> -> siehe lf6 Notizen Tablet
+> [!note] Notizen:
+> **CMOS-Technik:** Bei MOSFETs in CMOS-Schaltungen gibt es einen **Bulk-Anschluss** (Substrat), der beim N-Kanal an $V_{SS}$ (GND) und beim P-Kanal an $V_{DD}$ liegt. In diskreten MOSFETs ist der Bulk intern mit Source verbunden.
+>
+> **Gate-Strom $I_G$:** Bei einem FET fließt praktisch kein Gate-Strom ($I_G \approx 0$), da das Gate durch eine Oxidschicht isoliert ist. Ausnahme: Umschaltvorgänge (Laden/Entladen der Gate-Kapazität).
 
 # Variablen
 - Drain‑Source‑[[Spannung]] $U_{DS}$

@@ -62,7 +62,7 @@ Bei unterschiedlichen Bauteilklassen sind unterschiedliche werte wichtig:
 - [ ] **[[Bauteil]] eindeutig identifizieren**  
     Vollständige Typnummer + Gehäuse + ggf. Hersteller. (Notfalls vom Aufdruck + Stückliste ableiten.)
 - [ ] **Im Datenblatt zur richtigen Stelle springen**  
-    Nutze Inhaltsverzeichnis/Bookmarks + Suche (`Ctrl+F`) nach dem Parameterkürzel: z. B. #TODO
+    Nutze Inhaltsverzeichnis/Bookmarks + Suche (`Ctrl+F`) nach dem Parameterkürzel: z. B. `V_IH`, `R_DS(on)`, `I_CC`
 - [ ] **Kontext prüfen (3 Checks)**
     - Gilt das im **richtigen Abschnitt**? (Operating vs Absolute Max)
     - Stimmen **Bedingungen** ([[Spannung]], Temperatur, Last)?

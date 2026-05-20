@@ -5,7 +5,7 @@ aliases:
 classification: public
 ---
 
-Ein **Demultiplexer** (kurz: DEMUX) ist ein **[[Bauteil]]**, das ein **einzelnes Eingangssignal** auf **genau einen von mehreren Ausgängen** durchschaltet (je nach **Selektleitungen**).
+Ein **Demultiplexer** (kurz: DEMUX) ist das Gegenstück zum [[Multiplexer]]: Es nimmt ein **einzelnes Eingangssignal** und schaltet es auf **genau einen von mehreren Ausgängen** durch (je nach **Selektleitungen**).
 
 # Eingänge
 | Bezeichnung       | Bedeutung                                                                 |

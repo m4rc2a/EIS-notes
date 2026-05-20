@@ -23,9 +23,11 @@ Ein [[Temperaturkoeffizient]] ist ein [[Koeffizient]], der angibt, wie stark ein
 | $\Omega / ^\circ C$ | Änderung des Widerstands pro Grad Celsius Temperaturänderung |
 # Definition
 Der **[[Temperaturkoeffizient]]** ($\alpha$) gibt an, wie stark sich eine physikalische Größe ändert ($\Delta X$), wenn sich die Erhöhung der Temperatur ($\Delta T$) $1 K$ bzw.  $1 ^\circ C$ beträgt, bezogen auf ihren Ausgangswert ($X_0$).
-#TODO Was ist dieser Ausgangswert
+$X_0$ ist der **Referenz- oder Ausgangswert** der Größe bei einer Bezugstemperatur (meist $T_0 = 20\,^\circ\mathrm{C}$ oder $0\,^\circ\mathrm{C}$, siehe Datenblatt). Zum Beispiel: $R_0 = 100\,\Omega$ bei einem [[PT100]] bei $0\,^\circ\mathrm{C}$.
 $X$ ist hier bei die physikalische Größe zB. [[Widerstandswerte]] oder [[Spannung]].
 $$ \alpha=\frac{1}{X_0} \cdot \frac{\Delta X}{\Delta T} $$
-#TODO Variablen bezeichnung
+Die Variablenbezeichnung hängt von der Größe ab:
+- Für [[Widerstandswerte|Widerstand]]: $X_0 \rightarrow R_0$, $\Delta X \rightarrow \Delta R$
+- Für [[Spannung]]: $X_0 \rightarrow U_0$, $\Delta X \rightarrow \Delta U$
 ## Beispiel am [[Widerstandswerte]] mit Kelvin
 $$ \alpha = \frac{1}{R_0} \cdot \frac{\Delta R}{1K} $$

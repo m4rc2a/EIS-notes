@@ -7,8 +7,8 @@ classification: public
    Physical
 2. **Sicherungsschicht**
    _(Data Link)_
-	1. LLC (Logic Link Controll)
-	2. MAC (Media Accsess Controll)
+	1. LLC (Logic Link Control)
+	2. MAC (Media Access Control)
 3. **Vermittlungsschicht**
    _(Network)_
 4. **Transportschicht**
@@ -27,4 +27,16 @@ classification: public
 - Das IP Packet kommt in ein Frame
 - trailer (FCS) kommt dazu
 
-#TODO Was ist **PDU** (Protocol Data Unit)
+# PDU (Protocol Data Unit)
+Eine **PDU** (Protocol Data Unit) ist die Dateneinheit, die auf einer bestimmten OSI-Schicht ausgetauscht wird. Jede Schicht hat einen eigenen Namen für ihre PDU:
+
+| Schicht | PDU-Bezeichnung |
+|---|---|
+| 1 – Bitübertragung | **Bit** |
+| 2 – Sicherungsschicht | **Frame** |
+| 3 – Vermittlungsschicht | **Packet** |
+| 4 – Transportschicht | **Segment** (TCP) / **Datagram** (UDP) |
+| 5–7 – Anwendungsebene | **Data** |
+
+> [!tldr] Merksatz
+> Eine PDU besteht immer aus: **Header** (Steuerdaten) + **Payload** (Nutzdaten) + ggf. **Trailer**
