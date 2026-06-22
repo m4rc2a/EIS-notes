@@ -36,11 +36,7 @@ Die Graph-Ansicht visualisiert die Verbindungen zwischen den einzelnen Notizen u
 > Die Graph-Ansicht ist über das entsprechende Icon in Obsidian am Rand der Anwendung erreichbar.
 # Aktuelle Themen
 Aktuelle Themen sind:
-- [[Abschlussprüfung Teil 1]]
-- #ApT-1-2025 
-- Vom Englischunterricht:
-	- [[PCs|Computer]]
-	- [[INEAC]]
+- [[Lerninhalte/Softwareentwicklung|Softwareentwicklung]] – LF8 Klausurvorbereitung
 
 # TODOs:
 - [ ] Wechselstrom dinge mit Vektoren [[Widerstandswerte]] [[Widerstandswerte|URI]] und so bla (komische Pfeile zum grafisch berechnen)
